@@ -54,3 +54,4 @@ OpenCode auto-discovers all `SKILL.md` files under `~/.opencode/skills/`. No cha
 | [json-canvas](skills/json-canvas) | Create and edit [JSON Canvas](https://jsoncanvas.org/) files (`.canvas`) with nodes, edges, groups, and connections |
 | [obsidian-cli](skills/obsidian-cli) | Interact with Obsidian vaults via the [Obsidian CLI](https://help.obsidian.md/cli) including plugin and theme development |
 | [defuddle](skills/defuddle) | Extract clean markdown from web pages using [Defuddle](https://github.com/kepano/defuddle), removing clutter to save tokens |
+| [brokenoak-vault-notes](skills/brokenoak-vault-notes) | Create-only note-writing rule for the BrokenOak vault: headers, wikilinks, hubs, supersede-don't-edit |
